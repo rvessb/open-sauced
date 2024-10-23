@@ -13,8 +13,8 @@
     "url": "git+ssh://git@github.com/open-sauced/open-sauced.git"
   },
   "engines": {
-    "node": ">=10.9.0",
-    "npm": ">=1"
+    "node": ">=14.6.0",
+    "npm": ">=7"
   },
   "scripts": {
     "push": "npx @open-sauced/conventional-commit",
