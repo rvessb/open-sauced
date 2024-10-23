@@ -3,9 +3,9 @@ name: Release
 on:
   push:
     branches:
-      - maine
+      - main
       - alpha
-      - betae
+      - beta
 
 jobs:
   test:
